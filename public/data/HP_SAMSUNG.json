@@ -1,0 +1,19 @@
+{
+    "HP_SAMSUNG": 
+    [
+        {
+            "IdHP": "01",
+            "Nama": "Samsung Galaxy S23 Ultra",
+            "Chipset": "Qualcomm SM8550-AC Snapdragon 8 Gen 2",
+            "Internal": "256",
+            "RAM": "8"
+        },
+        {
+            "IdHP": "02",
+            "Nama": "Samsung Galaxy A54",
+            "Chipset": "Exynos 1380 8 core",
+            "Internal": "256",
+            "RAM": "8"
+        }
+    ]
+}
